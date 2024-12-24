@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c9879776-98d1-43d2-b2ec-206ca588dd35" name="Changes" comment="Milestone 2 - Updated">
+      <change afterPath="$PROJECT_DIR$/streamlit_app/page/cake_details.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streamlit_app/page/cart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streamlit_app/page/checkout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streamlit_app/page/customize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streamlit_app/page/store.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streamlit_app/page/store_cakes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/banana.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/chocolate.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/chokofugg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/lemzest.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/redvel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/stebst.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/vannbean.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/screenshots/1_home.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/screenshots/1_home.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/screenshots/2_cakes.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/screenshots/2_cakes.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/screenshots/3_login.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/screenshots/3_login.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/screenshots/4_profile.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/screenshots/4_profile.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/screenshots/5_cake_details.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/screenshots/5_cake_details.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/screenshots/6_cake_custom.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/screenshots/6_cake_custom.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/screenshots/7_cart.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/screenshots/7_cart.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/screenshots/9_registration.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/screenshots/9_registration.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/streamlit_app/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/streamlit_app/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/streamlit_app/components/sidebar.py" beforeDir="false" afterPath="$PROJECT_DIR$/streamlit_app/components/sidebar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/streamlit_app/pages/auth.py" beforeDir="false" afterPath="$PROJECT_DIR$/streamlit_app/page/auth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/streamlit_app/pages/cake_details.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/streamlit_app/pages/cakes.py" beforeDir="false" afterPath="$PROJECT_DIR$/streamlit_app/page/cakes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/streamlit_app/pages/cart.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/streamlit_app/pages/customize.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/streamlit_app/pages/home.py" beforeDir="false" afterPath="$PROJECT_DIR$/streamlit_app/page/home.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/streamlit_app/pages/profile.py" beforeDir="false" afterPath="$PROJECT_DIR$/streamlit_app/page/profile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/streamlit_app/pages/slider.html" beforeDir="false" afterPath="$PROJECT_DIR$/streamlit_app/page/slider.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/streamlit_app/static/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweetspot_app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/sweetspot_app/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweetspot_app/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/sweetspot_app/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweetspot_app/static/images/banana.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweetspot_app/static/images/chocolate.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweetspot_app/static/images/chokofugg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweetspot_app/static/images/lemzest.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweetspot_app/static/images/redvel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweetspot_app/static/images/stebst.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweetspot_app/static/images/vannbean.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweetspot_app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/sweetspot_app/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweetspot_app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/sweetspot_app/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweetspot_pro/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/sweetspot_pro/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweetspot_pro/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/sweetspot_pro/urls.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2nq04a2t5I7FSn1XSgP7EfFF2i9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Django Server.SPX.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.pycharm.django.structure.promotion.once.per.project&quot;: &quot;true&quot;,
+    &quot;django.template.preview.state&quot;: &quot;SHOW_EDITOR_AND_PREVIEW&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Avishkar-Patil&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Project/I-SB/SPX&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project\I-SB\SPX\sweetspot_app\static\images" />
+      <recent name="D:\Project\I-SB\SPX\sweetspot_app" />
+      <recent name="D:\Project\I-SB\SPX\streamlit_app\plugins" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SPX" type="Python.DjangoServer" factoryName="Django server">
+      <module name="SPX" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="sweetspot_pro.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="localhost" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-PY-242.21829.153" />
+        <option value="bundled-python-sdk-464836ebc622-b74155a9e76b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.21829.153" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9879776-98d1-43d2-b2ec-206ca588dd35" name="Changes" comment="" />
+      <created>1729685109248</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729685109248</updated>
+      <workItem from="1729685110259" duration="632000" />
+      <workItem from="1729689681698" duration="518000" />
+      <workItem from="1729690346854" duration="909000" />
+      <workItem from="1729752583788" duration="1772000" />
+      <workItem from="1730288510549" duration="16681000" />
+      <workItem from="1730355123386" duration="10617000" />
+      <workItem from="1730367861500" duration="6452000" />
+      <workItem from="1730378729564" duration="29000" />
+      <workItem from="1730378772887" duration="1707000" />
+      <workItem from="1730380509743" duration="556000" />
+      <workItem from="1730384701719" duration="13222000" />
+      <workItem from="1730440030625" duration="13142000" />
+      <workItem from="1730533352333" duration="17249000" />
+      <workItem from="1730700203843" duration="15139000" />
+      <workItem from="1730718181684" duration="716000" />
+      <workItem from="1730720588575" duration="2540000" />
+      <workItem from="1730881381091" duration="1274000" />
+      <workItem from="1730890991372" duration="10179000" />
+      <workItem from="1730909489378" duration="924000" />
+      <workItem from="1730910483969" duration="85000" />
+      <workItem from="1730910598388" duration="33000" />
+      <workItem from="1730910639617" duration="13039000" />
+      <workItem from="1730969755797" duration="122000" />
+      <workItem from="1730970014173" duration="1085000" />
+      <workItem from="1730971549391" duration="23105000" />
+      <workItem from="1731139124908" duration="16648000" />
+      <workItem from="1731325301793" duration="7617000" />
+    </task>
+    <task id="LOCAL-00001" summary="Milestone 2 - Updated">
+      <option name="closed" value="true" />
+      <created>1730550032706</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730550032707</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Milestone 2 - Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Milestone 2 - Updated" />
+  </component>
+</project>

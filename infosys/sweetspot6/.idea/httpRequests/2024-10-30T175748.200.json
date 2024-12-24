@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Chocolate Cake",
+    "flavour": "Vanilla",
+    "size": null,
+    "price": "20.00",
+    "description": "Delicious chocolate cake",
+    "image": null,
+    "available": true
+  },
+  {
+    "id": 2,
+    "name": "Banana Cake",
+    "flavour": "Vanilla",
+    "size": null,
+    "price": "30.00",
+    "description": "Delicious Banana cake",
+    "image": null,
+    "available": true
+  }
+]

@@ -1,0 +1,42 @@
+GET http://localhost:8000/api/customers
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+cookie:
+content-length: 0
+
+<> 2024-10-30T175827.200.json
+
+###
+
+GET http://localhost:8000/api/cakes
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+cookie:
+content-length: 0
+
+<> 2024-10-30T175748.200.json
+
+###
+
+POST http://localhost:8000/api/customers/login/
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-10-30T175532.400.json
+
+###
+
+POST http://localhost:8000/api/customers/login/
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-10-30T175520.400.json
+
+###
+
