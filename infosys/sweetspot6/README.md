@@ -12,19 +12,6 @@ Djando REST API for SweetSpot - Delivering Delight to Your Doorstep
 ### API Documentation
 - [Here](APIs.md)
 
-### Screenshots
-
-| Home | Cakes List | Login Page |
-|------|------------|------------|
-| ![Home](static/screenshots/1_home.png) | ![Cakes](static/screenshots/2_cakes.png) | ![Login](static/screenshots/3_login.png) |
-
-|                   Registration Page                    | Profile Page | Cake Details |
-|:------------------------------------------------------:|:------------:|:------------:|
-| ![Registration](static/screenshots/9_registration.png) | ![Profile](static/screenshots/4_profile.png) | ![Cake Details](static/screenshots/5_cake_details.png) |
-
-| Cake Customization | Cart Page |                   Checkout Page                    |
-|:------------------:|:---------:|:--------------------------------------------------:|
-| ![Cake Custom](static/screenshots/6_cake_custom.png) | ![Cart](static/screenshots/7_cart.png) | ![View Custom](static/screenshots/10_checkout.png) |
 
 ### Prerequisites
 
@@ -37,7 +24,7 @@ Djando REST API for SweetSpot - Delivering Delight to Your Doorstep
 ### 1. Clone the Repository
 
 ```bash
-git clone -b Avishkar-Patil https://github.com/Springboard-Internship-2024/API-development-of-SweetSpot-Deliverin-Delight-to-Your-Doorstep_oct_2024.git
+git clone -b Your Repo
 cd API-development-of-SweetSpot-Deliverin-Delight-to-Your-Doorstep_oct_2024
 ```
 
