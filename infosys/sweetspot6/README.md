@@ -1,6 +1,6 @@
 # SweetSpot API
 
-Djando REST API for SweetSpot - Delivering Delight to Your Doorstep
+Django REST API for SweetSpot - Delivering Delight to Your Doorstep
 
 ## TODO :
 - [x] Streamlit UI Implementation
@@ -12,6 +12,17 @@ Djando REST API for SweetSpot - Delivering Delight to Your Doorstep
 ### API Documentation
 - [Here](APIs.md)
 
+### Screenshots
+
+| Home Page | Cakes Collection | Cakes at Store | Login Page |
+|-----------|------------------|----------------|------------|
+| ![Home Page](screenshots/Home%20Page.png) | ![Cakes Collection](screenshots/Cakes%20Collection.png) | ![Cakes at Store](screenshots/Cakes%20at%20Store1.png) | ![Login](screenshots/Login.png) |
+
+| Stores Page | Profile Page | Customize Cake | Checkout Page |
+|-------------|-------------|----------------|--------------|
+| ![Stores](screenshots/Stores.png) | ![Profile](screenshots/Profile.png) | ![Customize](screenshots/Customize.png) | ![Checkout](screenshots/Checkout.png) |
+
+> All screenshots are directly rendered from the /screenshots folder in this repository.
 
 ### Prerequisites
 
@@ -21,40 +32,39 @@ Djando REST API for SweetSpot - Delivering Delight to Your Doorstep
 
 ### Local Setup
 
-### 1. Clone the Repository
+#### 1. Clone the Repository
 
-```bash
-git clone -b Your Repo
+bash
+git clone -b Your repo
 cd API-development-of-SweetSpot-Deliverin-Delight-to-Your-Doorstep_oct_2024
-```
 
-### 2. Create and Activate Virtual Environment
+
+#### 2. Create and Activate Virtual Environment
 
 For Linux/macOS:
-```bash
+bash
 python3 -m venv venv
 source venv/bin/activate
-```
 
 For Windows:
-```bash
+bash
 python3 -m venv venv
 venv\Scripts\activate
-```
 
-### 3. Install Dependencies
 
-```bash
+#### 3. Install Dependencies
+
+bash
 pip install -r requirements.txt
-```
 
-### 4. Database and Email Configuration
+
+#### 4. Database and Email Configuration
 
 1. Install and start PostgreSQL server
 2. Create a new PostgreSQL database 
-3. Update the database configuration in `sweetspot_pro/settings.py`:
+3. Update the database configuration in sweetspot_pro/settings.py:
 
-```python
+python
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
@@ -65,10 +75,10 @@ DATABASES = {
         'PORT': '5432',
     }
 }
-```
-In the same `sweetspot_pro/settings.py` file add email config or leave in the defaults
 
-```python
+In the same sweetspot_pro/settings.py file add email config or leave in the defaults
+
+python
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
@@ -76,31 +86,29 @@ EMAIL_USE_TLS = True
 EMAIL_HOST_USER = #your email
 EMAIL_HOST_PASSWORD = #your generated password
 EMAIL_USE_SSL = False
-```
 
 
+#### 5. Run Migrations and create a super user
 
-### 5. Run Migrations and create a super user
-
-```bash
+bash
 python3 manage.py makemigrations
 python3 manage.py migrate
 python manage.py createsuperuser
-```
-Go to `http://localhost:8000/admin` for adding sample data (like cakes)
 
-### 6. Start Development Server
+Go to http://localhost:8000/admin for adding sample data (like cakes)
 
-```bash
+#### 6. Start Development Server
+
+bash
 python3 manage.py runserver 
-```
 
-The API will be available at `http://localhost:8000`
+
+The API will be available at http://localhost:8000
 
 ## API Documentation
 
-- Swagger UI: `http://localhost:8000/docs/`
-- ReDoc: `http://localhost:8000/redoc/`
+- Swagger UI: http://localhost:8000/docs/
+- ReDoc: http://localhost:8000/redoc/
 
 ## Requirements
 
@@ -110,14 +118,14 @@ Main dependencies:
 - psycopg2-binary
 - drf-yasg (for Swagger/OpenAPI documentation)
 
-For a complete list of dependencies, see `requirements.txt`
+For a complete list of dependencies, see requirements.txt
 
 ## Development
 
-1. Create new models in `api/models.py`
-2. Create serializers in `api/serializers.py`
-3. Create views in `api/views.py`
-4. Add URL patterns in `api/urls.py`
+1. Create new models in api/models.py
+2. Create serializers in api/serializers.py
+3. Create views in api/views.py
+4. Add URL patterns in api/urls.py
 
 ## License
 
